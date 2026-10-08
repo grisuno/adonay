@@ -1,8 +1,18 @@
 # API
 
 ## app.py
-- `calcular_gematría` (function) `app.py:1` `def calcular_gematría(letra)`
-- `obtener_gematría_palabra` (function) `app.py:14` `def obtener_gematría_palabra(palabra)`
-- `obtener_significados` (function) `app.py:19` `def obtener_significados(letras)`
-- `obtener_palabra` (function) `app.py:58` `def obtener_palabra(letras)`
-- `significado_gematría` (function) `app.py:97` `def significado_gematría(suma)`
+
+### calcular_gematría (function) `def calcular_gematría(letra)`
+- Defined: `app.py:1`
+
+### obtener_gematría_palabra (function) `def obtener_gematría_palabra(palabra)`
+- Defined: `app.py:14`
+
+### obtener_significados (function) `def obtener_significados(letras)`
+- Defined: `app.py:19`
+
+### obtener_palabra (function) `def obtener_palabra(letras)`
+- Defined: `app.py:58`
+
+### significado_gematría (function) `def significado_gematría(suma)`
+- Defined: `app.py:97`
